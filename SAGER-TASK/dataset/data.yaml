@@ -1,0 +1,6 @@
+names:
+  0: rust
+path: /content/drive/MyDrive/SAGER-TASK/dataset
+train: images/train
+val: images/val
+test: images/test
