@@ -20,5 +20,3 @@
 
 7. 100 unlabelled images 
    - Location: Email Attached
-
-8. github link
